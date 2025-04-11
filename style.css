@@ -55,3 +55,22 @@ img {
      color: #68778d;
 
 }
+
+@media(max-width: 768px) {
+     .qr {
+          width: 40%;
+          padding: 30px;
+     }
+
+     .container {
+          padding: 15px;
+     }
+
+     .qr-description {
+          font-size: 14px;
+     }
+
+     .qr-text {
+          font-size: 10px;
+     }
+}
